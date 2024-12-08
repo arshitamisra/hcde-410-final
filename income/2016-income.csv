@@ -1,0 +1,40 @@
+﻿Year,County FIPS,County,State,Bivariate Tertile,Diagnosed Diabetes (Percentage) ,Median Household Income (Number) 
+2016,53001,Adams County,Washington,HL,9.2,62410
+2016,53003,Asotin County,Washington,HL,9.1,65625
+2016,53005,Benton County,Washington,HH,9,85144
+2016,53007,Chelan County,Washington,LH,5.9,81697
+2016,53009,Clallam County,Washington,LM,7.6,66693
+2016,53011,Clark County,Washington,HH,8.9,91149
+2016,53013,Columbia County,Washington,ML,8.1,62935
+2016,53015,Cowlitz County,Washington,HM,8.9,71847
+2016,53017,Douglas County,Washington,LH,6.9,83870
+2016,53019,Ferry County,Washington,LL,7.1,57064
+2016,53021,Franklin County,Washington,HM,10,77820
+2016,53023,Garfield County,Washington,ML,8.6,64413
+2016,53025,Grant County,Washington,ML,8.1,63809
+2016,53027,Grays Harbor County,Washington,HL,9.1,62258
+2016,53029,Island County,Washington,LH,6.2,82717
+2016,53031,Jefferson County,Washington,LM,7.2,69176
+2016,53033,King County,Washington,LH,7.1,116044
+2016,53035,Kitsap County,Washington,LH,7.4,93794
+2016,53037,Kittitas County,Washington,LM,6.5,71737
+2016,53039,Klickitat County,Washington,LM,7.3,70371
+2016,53041,Lewis County,Washington,MM,7.8,67954
+2016,53043,Lincoln County,Washington,MM,8.6,68318
+2016,53045,Mason County,Washington,HM,9,78029
+2016,53047,Okanogan County,Washington,HL,9.2,58661
+2016,53049,Pacific County,Washington,ML,8.5,55615
+2016,53051,Pend Oreille County,Washington,ML,7.8,59332
+2016,53053,Pierce County,Washington,MH,8.2,92793
+2016,53055,San Juan County,Washington,LH,5.3,84024
+2016,53057,Skagit County,Washington,MM,7.7,79118
+2016,53059,Skamania County,Washington,LH,7.2,82132
+2016,53061,Snohomish County,Washington,LH,7.4,101440
+2016,53063,Spokane County,Washington,HM,8.8,69079
+2016,53065,Stevens County,Washington,ML,8,65748
+2016,53067,Thurston County,Washington,MH,8.7,88560
+2016,53069,Wahkiakum County,Washington,MM,8.4,70099
+2016,53071,Walla Walla County,Washington,ML,8.7,66542
+2016,53073,Whatcom County,Washington,LM,7.1,78796
+2016,53075,Whitman County,Washington,ML,8.2,54412
+2016,53077,Yakima County,Washington,HL,9,63058

@@ -1,0 +1,235 @@
+year,county_fips,county,state,bivariate_tertile,diabetes_percentage,median_income
+2016,53001,Adams County,Washington,HL,9.2,62410
+2016,53003,Asotin County,Washington,HL,9.1,65625
+2016,53005,Benton County,Washington,HH,9.0,85144
+2016,53007,Chelan County,Washington,LH,5.9,81697
+2016,53009,Clallam County,Washington,LM,7.6,66693
+2016,53011,Clark County,Washington,HH,8.9,91149
+2016,53013,Columbia County,Washington,ML,8.1,62935
+2016,53015,Cowlitz County,Washington,HM,8.9,71847
+2016,53017,Douglas County,Washington,LH,6.9,83870
+2016,53019,Ferry County,Washington,LL,7.1,57064
+2016,53021,Franklin County,Washington,HM,10.0,77820
+2016,53023,Garfield County,Washington,ML,8.6,64413
+2016,53025,Grant County,Washington,ML,8.1,63809
+2016,53027,Grays Harbor County,Washington,HL,9.1,62258
+2016,53029,Island County,Washington,LH,6.2,82717
+2016,53031,Jefferson County,Washington,LM,7.2,69176
+2016,53033,King County,Washington,LH,7.1,116044
+2016,53035,Kitsap County,Washington,LH,7.4,93794
+2016,53037,Kittitas County,Washington,LM,6.5,71737
+2016,53039,Klickitat County,Washington,LM,7.3,70371
+2016,53041,Lewis County,Washington,MM,7.8,67954
+2016,53043,Lincoln County,Washington,MM,8.6,68318
+2016,53045,Mason County,Washington,HM,9.0,78029
+2016,53047,Okanogan County,Washington,HL,9.2,58661
+2016,53049,Pacific County,Washington,ML,8.5,55615
+2016,53051,Pend Oreille County,Washington,ML,7.8,59332
+2016,53053,Pierce County,Washington,MH,8.2,92793
+2016,53055,San Juan County,Washington,LH,5.3,84024
+2016,53057,Skagit County,Washington,MM,7.7,79118
+2016,53059,Skamania County,Washington,LH,7.2,82132
+2016,53061,Snohomish County,Washington,LH,7.4,101440
+2016,53063,Spokane County,Washington,HM,8.8,69079
+2016,53065,Stevens County,Washington,ML,8.0,65748
+2016,53067,Thurston County,Washington,MH,8.7,88560
+2016,53069,Wahkiakum County,Washington,MM,8.4,70099
+2016,53071,Walla Walla County,Washington,ML,8.7,66542
+2016,53073,Whatcom County,Washington,LM,7.1,78796
+2016,53075,Whitman County,Washington,ML,8.2,54412
+2016,53077,Yakima County,Washington,HL,9.0,63058
+2017,53001,Adams County,Washington,HL,8.9,62410
+2017,53003,Asotin County,Washington,ML,7.9,65625
+2017,53005,Benton County,Washington,MH,8.1,85144
+2017,53007,Chelan County,Washington,LH,5.9,81697
+2017,53009,Clallam County,Washington,MM,7.9,66693
+2017,53011,Clark County,Washington,HH,9.3,91149
+2017,53013,Columbia County,Washington,ML,7.9,62935
+2017,53015,Cowlitz County,Washington,HM,9.3,71847
+2017,53017,Douglas County,Washington,LH,7.2,83870
+2017,53019,Ferry County,Washington,LL,7.2,57064
+2017,53021,Franklin County,Washington,HM,10.1,77820
+2017,53023,Garfield County,Washington,ML,8.7,64413
+2017,53025,Grant County,Washington,HL,9.1,63809
+2017,53027,Grays Harbor County,Washington,HL,10.5,62258
+2017,53029,Island County,Washington,LH,6.7,82717
+2017,53031,Jefferson County,Washington,LM,5.6,69176
+2017,53033,King County,Washington,LH,7.0,116044
+2017,53035,Kitsap County,Washington,LH,6.7,93794
+2017,53037,Kittitas County,Washington,LM,6.6,71737
+2017,53039,Klickitat County,Washington,MM,8.5,70371
+2017,53041,Lewis County,Washington,MM,8.2,67954
+2017,53043,Lincoln County,Washington,MM,8.4,68318
+2017,53045,Mason County,Washington,MM,8.3,78029
+2017,53047,Okanogan County,Washington,LL,7.6,58661
+2017,53049,Pacific County,Washington,HL,9.2,55615
+2017,53051,Pend Oreille County,Washington,ML,8.1,59332
+2017,53053,Pierce County,Washington,HH,9.0,92793
+2017,53055,San Juan County,Washington,LH,4.1,84024
+2017,53057,Skagit County,Washington,LM,7.8,79118
+2017,53059,Skamania County,Washington,MH,8.1,82132
+2017,53061,Snohomish County,Washington,LH,7.7,101440
+2017,53063,Spokane County,Washington,MM,8.4,69079
+2017,53065,Stevens County,Washington,LL,7.6,65748
+2017,53067,Thurston County,Washington,HH,9.1,88560
+2017,53069,Wahkiakum County,Washington,MM,8.4,70099
+2017,53071,Walla Walla County,Washington,HL,9.1,66542
+2017,53073,Whatcom County,Washington,LM,7.2,78796
+2017,53075,Whitman County,Washington,HL,8.9,54412
+2017,53077,Yakima County,Washington,HL,10.1,63058
+2018,53001,Adams County,Washington,ML,8.1,62410
+2018,53003,Asotin County,Washington,HL,9.0,65625
+2018,53005,Benton County,Washington,LH,8.0,85144
+2018,53007,Chelan County,Washington,LH,7.2,81697
+2018,53009,Clallam County,Washington,HM,9.5,66693
+2018,53011,Clark County,Washington,MH,8.9,91149
+2018,53013,Columbia County,Washington,ML,8.7,62935
+2018,53015,Cowlitz County,Washington,HM,10.7,71847
+2018,53017,Douglas County,Washington,LH,7.1,83870
+2018,53019,Ferry County,Washington,LL,7.5,57064
+2018,53021,Franklin County,Washington,HM,10.0,77820
+2018,53023,Garfield County,Washington,ML,8.6,64413
+2018,53025,Grant County,Washington,ML,8.6,63809
+2018,53027,Grays Harbor County,Washington,HL,9.6,62258
+2018,53029,Island County,Washington,LH,7.1,82717
+2018,53031,Jefferson County,Washington,LM,5.4,69176
+2018,53033,King County,Washington,LH,7.6,116044
+2018,53035,Kitsap County,Washington,MH,8.2,93794
+2018,53037,Kittitas County,Washington,LM,6.6,71737
+2018,53039,Klickitat County,Washington,MM,8.9,70371
+2018,53041,Lewis County,Washington,HM,9.1,67954
+2018,53043,Lincoln County,Washington,LM,7.4,68318
+2018,53045,Mason County,Washington,MM,8.9,78029
+2018,53047,Okanogan County,Washington,ML,8.4,58661
+2018,53049,Pacific County,Washington,HL,9.1,55615
+2018,53051,Pend Oreille County,Washington,LL,7.4,59332
+2018,53053,Pierce County,Washington,HH,10.1,92793
+2018,53055,San Juan County,Washington,LH,4.5,84024
+2018,53057,Skagit County,Washington,LM,7.0,79118
+2018,53059,Skamania County,Washington,MH,8.4,82132
+2018,53061,Snohomish County,Washington,MH,8.6,101440
+2018,53063,Spokane County,Washington,MM,8.5,69079
+2018,53065,Stevens County,Washington,LL,6.9,65748
+2018,53067,Thurston County,Washington,MH,8.5,88560
+2018,53069,Wahkiakum County,Washington,MM,8.1,70099
+2018,53071,Walla Walla County,Washington,HL,9.0,66542
+2018,53073,Whatcom County,Washington,LM,7.4,78796
+2018,53075,Whitman County,Washington,ML,8.3,54412
+2018,53077,Yakima County,Washington,HL,10.9,63058
+2019,53001,Adams County,Washington,HL,9.3,62410
+2019,53003,Asotin County,Washington,HL,8.8,65625
+2019,53005,Benton County,Washington,MH,8.2,85144
+2019,53007,Chelan County,Washington,LH,7.5,81697
+2019,53009,Clallam County,Washington,LM,7.8,66693
+2019,53011,Clark County,Washington,HH,8.9,91149
+2019,53013,Columbia County,Washington,HL,9.5,62935
+2019,53015,Cowlitz County,Washington,HM,9.7,71847
+2019,53017,Douglas County,Washington,MH,8.7,83870
+2019,53019,Ferry County,Washington,LL,7.8,57064
+2019,53021,Franklin County,Washington,HM,10.0,77820
+2019,53023,Garfield County,Washington,ML,8.5,64413
+2019,53025,Grant County,Washington,HL,11.1,63809
+2019,53027,Grays Harbor County,Washington,HL,10.5,62258
+2019,53029,Island County,Washington,LH,7.6,82717
+2019,53031,Jefferson County,Washington,LM,5.7,69176
+2019,53033,King County,Washington,LH,7.3,116044
+2019,53035,Kitsap County,Washington,LH,7.6,93794
+2019,53037,Kittitas County,Washington,LM,7.3,71737
+2019,53039,Klickitat County,Washington,MM,8.6,70371
+2019,53041,Lewis County,Washington,HM,10.1,67954
+2019,53043,Lincoln County,Washington,LM,7.6,68318
+2019,53045,Mason County,Washington,MM,8.0,78029
+2019,53047,Okanogan County,Washington,LL,7.7,58661
+2019,53049,Pacific County,Washington,ML,8.4,55615
+2019,53051,Pend Oreille County,Washington,ML,8.5,59332
+2019,53053,Pierce County,Washington,HH,10.5,92793
+2019,53055,San Juan County,Washington,LH,4.5,84024
+2019,53057,Skagit County,Washington,LM,7.5,79118
+2019,53059,Skamania County,Washington,MH,8.1,82132
+2019,53061,Snohomish County,Washington,MH,8.7,101440
+2019,53063,Spokane County,Washington,MM,8.1,69079
+2019,53065,Stevens County,Washington,LL,7.2,65748
+2019,53067,Thurston County,Washington,LH,7.8,88560
+2019,53069,Wahkiakum County,Washington,HM,9.0,70099
+2019,53071,Walla Walla County,Washington,ML,8.1,66542
+2019,53073,Whatcom County,Washington,LM,7.1,78796
+2019,53075,Whitman County,Washington,ML,8.4,54412
+2019,53077,Yakima County,Washington,HL,10.7,63058
+2020,53001,Adams County,Washington,HL,10.1,62410
+2020,53003,Asotin County,Washington,HL,9.7,65625
+2020,53005,Benton County,Washington,MH,8.4,85144
+2020,53007,Chelan County,Washington,MH,7.8,81697
+2020,53009,Clallam County,Washington,LM,7.0,66693
+2020,53011,Clark County,Washington,MH,8.6,91149
+2020,53013,Columbia County,Washington,ML,8.6,62935
+2020,53015,Cowlitz County,Washington,HM,8.9,71847
+2020,53017,Douglas County,Washington,MH,7.8,83870
+2020,53019,Ferry County,Washington,ML,8.4,57064
+2020,53021,Franklin County,Washington,HM,8.9,77820
+2020,53023,Garfield County,Washington,LL,7.5,64413
+2020,53025,Grant County,Washington,HL,10.3,63809
+2020,53027,Grays Harbor County,Washington,HL,10.3,62258
+2020,53029,Island County,Washington,LH,7.2,82717
+2020,53031,Jefferson County,Washington,LM,6.9,69176
+2020,53033,King County,Washington,LH,6.8,116044
+2020,53035,Kitsap County,Washington,MH,8.2,93794
+2020,53037,Kittitas County,Washington,LM,7.4,71737
+2020,53039,Klickitat County,Washington,LM,7.6,70371
+2020,53041,Lewis County,Washington,HM,9.3,67954
+2020,53043,Lincoln County,Washington,MM,7.9,68318
+2020,53045,Mason County,Washington,MM,8.5,78029
+2020,53047,Okanogan County,Washington,HL,9.1,58661
+2020,53049,Pacific County,Washington,HL,9.1,55615
+2020,53051,Pend Oreille County,Washington,LL,7.5,59332
+2020,53053,Pierce County,Washington,HH,9.5,92793
+2020,53055,San Juan County,Washington,LH,4.6,84024
+2020,53057,Skagit County,Washington,LM,7.3,79118
+2020,53059,Skamania County,Washington,LH,6.6,82132
+2020,53061,Snohomish County,Washington,MH,8.3,101440
+2020,53063,Spokane County,Washington,MM,8.2,69079
+2020,53065,Stevens County,Washington,LL,6.8,65748
+2020,53067,Thurston County,Washington,MH,7.9,88560
+2020,53069,Wahkiakum County,Washington,HM,10.9,70099
+2020,53071,Walla Walla County,Washington,ML,8.2,66542
+2020,53073,Whatcom County,Washington,LM,7.2,78796
+2020,53075,Whitman County,Washington,LL,6.9,54412
+2020,53077,Yakima County,Washington,HL,9.2,63058
+2021,53001,Adams County,Washington,ML,8.7,62410
+2021,53003,Asotin County,Washington,HL,9.1,65625
+2021,53005,Benton County,Washington,MH,8.3,85144
+2021,53007,Chelan County,Washington,LH,6.9,81697
+2021,53009,Clallam County,Washington,LM,7.4,66693
+2021,53011,Clark County,Washington,MH,8.0,91149
+2021,53013,Columbia County,Washington,HL,8.8,62935
+2021,53015,Cowlitz County,Washington,MM,8.5,71847
+2021,53017,Douglas County,Washington,MH,8.5,83870
+2021,53019,Ferry County,Washington,HL,9.5,57064
+2021,53021,Franklin County,Washington,MM,8.1,77820
+2021,53023,Garfield County,Washington,ML,8.7,64413
+2021,53025,Grant County,Washington,HL,8.9,63809
+2021,53027,Grays Harbor County,Washington,HL,10.5,62258
+2021,53029,Island County,Washington,LH,7.8,82717
+2021,53031,Jefferson County,Washington,LM,6.3,69176
+2021,53033,King County,Washington,LH,6.5,116044
+2021,53035,Kitsap County,Washington,HH,8.9,93794
+2021,53037,Kittitas County,Washington,MM,8.0,71737
+2021,53039,Klickitat County,Washington,LM,6.7,70371
+2021,53041,Lewis County,Washington,MM,8.2,67954
+2021,53043,Lincoln County,Washington,LM,7.8,68318
+2021,53045,Mason County,Washington,MM,8.5,78029
+2021,53047,Okanogan County,Washington,HL,8.8,58661
+2021,53049,Pacific County,Washington,HL,9.7,55615
+2021,53051,Pend Oreille County,Washington,LL,7.2,59332
+2021,53053,Pierce County,Washington,HH,9.7,92793
+2021,53055,San Juan County,Washington,LH,4.7,84024
+2021,53057,Skagit County,Washington,LM,6.7,79118
+2021,53059,Skamania County,Washington,LH,7.5,82132
+2021,53061,Snohomish County,Washington,MH,7.9,101440
+2021,53063,Spokane County,Washington,MM,8.7,69079
+2021,53065,Stevens County,Washington,LL,7.5,65748
+2021,53067,Thurston County,Washington,HH,8.9,88560
+2021,53069,Wahkiakum County,Washington,HM,10.4,70099
+2021,53071,Walla Walla County,Washington,LL,7.7,66542
+2021,53073,Whatcom County,Washington,LM,6.3,78796
+2021,53075,Whitman County,Washington,LL,7.3,54412
+2021,53077,Yakima County,Washington,HL,10.2,63058

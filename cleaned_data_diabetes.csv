@@ -1,0 +1,196 @@
+year,county,diabetes_percentage
+2017,Adams County,8.9
+2017,Asotin County,7.9
+2017,Benton County,8.1
+2017,Chelan County,5.9
+2017,Clallam County,7.9
+2017,Clark County,9.3
+2017,Columbia County,7.9
+2017,Cowlitz County,9.3
+2017,Douglas County,7.2
+2017,Ferry County,7.2
+2017,Franklin County,10.1
+2017,Garfield County,8.7
+2017,Grant County,9.1
+2017,Grays Harbor County,10.5
+2017,Island County,6.7
+2017,Jefferson County,5.6
+2017,King County,7.0
+2017,Kitsap County,6.7
+2017,Kittitas County,6.6
+2017,Klickitat County,8.5
+2017,Lewis County,8.2
+2017,Lincoln County,8.4
+2017,Mason County,8.3
+2017,Okanogan County,7.6
+2017,Pacific County,9.2
+2017,Pend Oreille County,8.1
+2017,Pierce County,9.0
+2017,San Juan County,4.1
+2017,Skagit County,7.8
+2017,Skamania County,8.1
+2017,Snohomish County,7.7
+2017,Spokane County,8.4
+2017,Stevens County,7.6
+2017,Thurston County,9.1
+2017,Wahkiakum County,8.4
+2017,Walla Walla County,9.1
+2017,Whatcom County,7.2
+2017,Whitman County,8.9
+2017,Yakima County,10.1
+2018,Adams County,8.1
+2018,Asotin County,9.0
+2018,Benton County,8.0
+2018,Chelan County,7.2
+2018,Clallam County,9.5
+2018,Clark County,8.9
+2018,Columbia County,8.7
+2018,Cowlitz County,10.7
+2018,Douglas County,7.1
+2018,Ferry County,7.5
+2018,Franklin County,10.0
+2018,Garfield County,8.6
+2018,Grant County,8.6
+2018,Grays Harbor County,9.6
+2018,Island County,7.1
+2018,Jefferson County,5.4
+2018,King County,7.6
+2018,Kitsap County,8.2
+2018,Kittitas County,6.6
+2018,Klickitat County,8.9
+2018,Lewis County,9.1
+2018,Lincoln County,7.4
+2018,Mason County,8.9
+2018,Okanogan County,8.4
+2018,Pacific County,9.1
+2018,Pend Oreille County,7.4
+2018,Pierce County,10.1
+2018,San Juan County,4.5
+2018,Skagit County,7.0
+2018,Skamania County,8.4
+2018,Snohomish County,8.6
+2018,Spokane County,8.5
+2018,Stevens County,6.9
+2018,Thurston County,8.5
+2018,Wahkiakum County,8.1
+2018,Walla Walla County,9.0
+2018,Whatcom County,7.4
+2018,Whitman County,8.3
+2018,Yakima County,10.9
+2019,Adams County,9.3
+2019,Asotin County,8.8
+2019,Benton County,8.2
+2019,Chelan County,7.5
+2019,Clallam County,7.8
+2019,Clark County,8.9
+2019,Columbia County,9.5
+2019,Cowlitz County,9.7
+2019,Douglas County,8.7
+2019,Ferry County,7.8
+2019,Franklin County,10.0
+2019,Garfield County,8.5
+2019,Grant County,11.1
+2019,Grays Harbor County,10.5
+2019,Island County,7.6
+2019,Jefferson County,5.7
+2019,King County,7.3
+2019,Kitsap County,7.6
+2019,Kittitas County,7.3
+2019,Klickitat County,8.6
+2019,Lewis County,10.1
+2019,Lincoln County,7.6
+2019,Mason County,8.0
+2019,Okanogan County,7.7
+2019,Pacific County,8.4
+2019,Pend Oreille County,8.5
+2019,Pierce County,10.5
+2019,San Juan County,4.5
+2019,Skagit County,7.5
+2019,Skamania County,8.1
+2019,Snohomish County,8.7
+2019,Spokane County,8.1
+2019,Stevens County,7.2
+2019,Thurston County,7.8
+2019,Wahkiakum County,9.0
+2019,Walla Walla County,8.1
+2019,Whatcom County,7.1
+2019,Whitman County,8.4
+2019,Yakima County,10.7
+2020,Adams County,10.1
+2020,Asotin County,9.7
+2020,Benton County,8.4
+2020,Chelan County,7.8
+2020,Clallam County,7.0
+2020,Clark County,8.6
+2020,Columbia County,8.6
+2020,Cowlitz County,8.9
+2020,Douglas County,7.8
+2020,Ferry County,8.4
+2020,Franklin County,8.9
+2020,Garfield County,7.5
+2020,Grant County,10.3
+2020,Grays Harbor County,10.3
+2020,Island County,7.2
+2020,Jefferson County,6.9
+2020,King County,6.8
+2020,Kitsap County,8.2
+2020,Kittitas County,7.4
+2020,Klickitat County,7.6
+2020,Lewis County,9.3
+2020,Lincoln County,7.9
+2020,Mason County,8.5
+2020,Okanogan County,9.1
+2020,Pacific County,9.1
+2020,Pend Oreille County,7.5
+2020,Pierce County,9.5
+2020,San Juan County,4.6
+2020,Skagit County,7.3
+2020,Skamania County,6.6
+2020,Snohomish County,8.3
+2020,Spokane County,8.2
+2020,Stevens County,6.8
+2020,Thurston County,7.9
+2020,Wahkiakum County,10.9
+2020,Walla Walla County,8.2
+2020,Whatcom County,7.2
+2020,Whitman County,6.9
+2020,Yakima County,9.2
+2021,Adams County,8.7
+2021,Asotin County,9.1
+2021,Benton County,8.3
+2021,Chelan County,6.9
+2021,Clallam County,7.4
+2021,Clark County,8.0
+2021,Columbia County,8.8
+2021,Cowlitz County,8.5
+2021,Douglas County,8.5
+2021,Ferry County,9.5
+2021,Franklin County,8.1
+2021,Garfield County,8.7
+2021,Grant County,8.9
+2021,Grays Harbor County,10.5
+2021,Island County,7.8
+2021,Jefferson County,6.3
+2021,King County,6.5
+2021,Kitsap County,8.9
+2021,Kittitas County,8.0
+2021,Klickitat County,6.7
+2021,Lewis County,8.2
+2021,Lincoln County,7.8
+2021,Mason County,8.5
+2021,Okanogan County,8.8
+2021,Pacific County,9.7
+2021,Pend Oreille County,7.2
+2021,Pierce County,9.7
+2021,San Juan County,4.7
+2021,Skagit County,6.7
+2021,Skamania County,7.5
+2021,Snohomish County,7.9
+2021,Spokane County,8.7
+2021,Stevens County,7.5
+2021,Thurston County,8.9
+2021,Wahkiakum County,10.4
+2021,Walla Walla County,7.7
+2021,Whatcom County,6.3
+2021,Whitman County,7.3
+2021,Yakima County,10.2

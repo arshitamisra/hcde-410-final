@@ -1,0 +1,40 @@
+﻿Year,County FIPS,County,State,Bivariate Tertile,Diagnosed Diabetes (Percentage) ,Median Household Income (Number) 
+2021,53001,Adams County,Washington,ML,8.7,62410
+2021,53003,Asotin County,Washington,HL,9.1,65625
+2021,53005,Benton County,Washington,MH,8.3,85144
+2021,53007,Chelan County,Washington,LH,6.9,81697
+2021,53009,Clallam County,Washington,LM,7.4,66693
+2021,53011,Clark County,Washington,MH,8,91149
+2021,53013,Columbia County,Washington,HL,8.8,62935
+2021,53015,Cowlitz County,Washington,MM,8.5,71847
+2021,53017,Douglas County,Washington,MH,8.5,83870
+2021,53019,Ferry County,Washington,HL,9.5,57064
+2021,53021,Franklin County,Washington,MM,8.1,77820
+2021,53023,Garfield County,Washington,ML,8.7,64413
+2021,53025,Grant County,Washington,HL,8.9,63809
+2021,53027,Grays Harbor County,Washington,HL,10.5,62258
+2021,53029,Island County,Washington,LH,7.8,82717
+2021,53031,Jefferson County,Washington,LM,6.3,69176
+2021,53033,King County,Washington,LH,6.5,116044
+2021,53035,Kitsap County,Washington,HH,8.9,93794
+2021,53037,Kittitas County,Washington,MM,8,71737
+2021,53039,Klickitat County,Washington,LM,6.7,70371
+2021,53041,Lewis County,Washington,MM,8.2,67954
+2021,53043,Lincoln County,Washington,LM,7.8,68318
+2021,53045,Mason County,Washington,MM,8.5,78029
+2021,53047,Okanogan County,Washington,HL,8.8,58661
+2021,53049,Pacific County,Washington,HL,9.7,55615
+2021,53051,Pend Oreille County,Washington,LL,7.2,59332
+2021,53053,Pierce County,Washington,HH,9.7,92793
+2021,53055,San Juan County,Washington,LH,4.7,84024
+2021,53057,Skagit County,Washington,LM,6.7,79118
+2021,53059,Skamania County,Washington,LH,7.5,82132
+2021,53061,Snohomish County,Washington,MH,7.9,101440
+2021,53063,Spokane County,Washington,MM,8.7,69079
+2021,53065,Stevens County,Washington,LL,7.5,65748
+2021,53067,Thurston County,Washington,HH,8.9,88560
+2021,53069,Wahkiakum County,Washington,HM,10.4,70099
+2021,53071,Walla Walla County,Washington,LL,7.7,66542
+2021,53073,Whatcom County,Washington,LM,6.3,78796
+2021,53075,Whitman County,Washington,LL,7.3,54412
+2021,53077,Yakima County,Washington,HL,10.2,63058

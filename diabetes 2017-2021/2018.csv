@@ -1,0 +1,40 @@
+﻿Year,County FIPS,County,State,Bivariate Tertile,Diagnosed Diabetes (Percentage) ,Obesity (Percentage) 
+2018,53001,Adams County,Washington,MH,8.1,32.2
+2018,53003,Asotin County,Washington,HM,9,30.3
+2018,53005,Benton County,Washington,LH,8,35
+2018,53007,Chelan County,Washington,LH,7.2,33.3
+2018,53009,Clallam County,Washington,HL,9.5,27.1
+2018,53011,Clark County,Washington,MH,8.9,31.9
+2018,53013,Columbia County,Washington,ML,8.7,26.6
+2018,53015,Cowlitz County,Washington,HH,10.7,38.3
+2018,53017,Douglas County,Washington,LL,7.1,27.1
+2018,53019,Ferry County,Washington,LL,7.5,23.4
+2018,53021,Franklin County,Washington,HM,10,29.4
+2018,53023,Garfield County,Washington,MH,8.6,31.5
+2018,53025,Grant County,Washington,MH,8.6,33.5
+2018,53027,Grays Harbor County,Washington,HH,9.6,33.2
+2018,53029,Island County,Washington,LM,7.1,29.1
+2018,53031,Jefferson County,Washington,LL,5.4,20.3
+2018,53033,King County,Washington,LL,7.6,22.3
+2018,53035,Kitsap County,Washington,MM,8.2,29.3
+2018,53037,Kittitas County,Washington,LL,6.6,26.4
+2018,53039,Klickitat County,Washington,ML,8.9,24.9
+2018,53041,Lewis County,Washington,HM,9.1,31.2
+2018,53043,Lincoln County,Washington,LM,7.4,30
+2018,53045,Mason County,Washington,MH,8.9,32.7
+2018,53047,Okanogan County,Washington,MM,8.4,29.9
+2018,53049,Pacific County,Washington,HH,9.1,33.1
+2018,53051,Pend Oreille County,Washington,LM,7.4,31.1
+2018,53053,Pierce County,Washington,HH,10.1,31.5
+2018,53055,San Juan County,Washington,LL,4.5,19.3
+2018,53057,Skagit County,Washington,LL,7,28.5
+2018,53059,Skamania County,Washington,MM,8.4,31.2
+2018,53061,Snohomish County,Washington,MM,8.6,30.4
+2018,53063,Spokane County,Washington,MM,8.5,29.5
+2018,53065,Stevens County,Washington,LL,6.9,27.5
+2018,53067,Thurston County,Washington,MM,8.5,28.8
+2018,53069,Wahkiakum County,Washington,MM,8.1,29.9
+2018,53071,Walla Walla County,Washington,HL,9,28.3
+2018,53073,Whatcom County,Washington,LL,7.4,26
+2018,53075,Whitman County,Washington,ML,8.3,26.1
+2018,53077,Yakima County,Washington,HH,10.9,36

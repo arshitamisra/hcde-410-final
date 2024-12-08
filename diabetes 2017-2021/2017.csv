@@ -1,0 +1,40 @@
+﻿Year,County FIPS,County,State,Bivariate Tertile,Diagnosed Diabetes (Percentage) ,Obesity (Percentage) 
+2017,53001,Adams County,Washington,HH,8.9,31
+2017,53003,Asotin County,Washington,MM,7.9,30
+2017,53005,Benton County,Washington,MH,8.1,31.1
+2017,53007,Chelan County,Washington,LM,5.9,28.1
+2017,53009,Clallam County,Washington,MM,7.9,30
+2017,53011,Clark County,Washington,HH,9.3,32.7
+2017,53013,Columbia County,Washington,MM,7.9,28
+2017,53015,Cowlitz County,Washington,HH,9.3,37.8
+2017,53017,Douglas County,Washington,LH,7.2,30.6
+2017,53019,Ferry County,Washington,LL,7.2,26.4
+2017,53021,Franklin County,Washington,HH,10.1,34
+2017,53023,Garfield County,Washington,ML,8.7,26.2
+2017,53025,Grant County,Washington,HM,9.1,29.1
+2017,53027,Grays Harbor County,Washington,HH,10.5,30.7
+2017,53029,Island County,Washington,LL,6.7,26.5
+2017,53031,Jefferson County,Washington,LL,5.6,18.5
+2017,53033,King County,Washington,LL,7,20.9
+2017,53035,Kitsap County,Washington,LM,6.7,28.4
+2017,53037,Kittitas County,Washington,LL,6.6,24.8
+2017,53039,Klickitat County,Washington,MM,8.5,28.3
+2017,53041,Lewis County,Washington,MH,8.2,31.7
+2017,53043,Lincoln County,Washington,ML,8.4,25.7
+2017,53045,Mason County,Washington,MM,8.3,30.2
+2017,53047,Okanogan County,Washington,LH,7.6,30.5
+2017,53049,Pacific County,Washington,HM,9.2,28.2
+2017,53051,Pend Oreille County,Washington,MH,8.1,35.3
+2017,53053,Pierce County,Washington,HM,9,30.3
+2017,53055,San Juan County,Washington,LL,4.1,20.8
+2017,53057,Skagit County,Washington,LL,7.8,27.7
+2017,53059,Skamania County,Washington,ML,8.1,27
+2017,53061,Snohomish County,Washington,LM,7.7,29.1
+2017,53063,Spokane County,Washington,ML,8.4,26.5
+2017,53065,Stevens County,Washington,LL,7.6,27.6
+2017,53067,Thurston County,Washington,HM,9.1,27.9
+2017,53069,Wahkiakum County,Washington,MM,8.4,29.4
+2017,53071,Walla Walla County,Washington,HL,9.1,25.7
+2017,53073,Whatcom County,Washington,LM,7.2,30.3
+2017,53075,Whitman County,Washington,HL,8.9,27.1
+2017,53077,Yakima County,Washington,HH,10.1,37
